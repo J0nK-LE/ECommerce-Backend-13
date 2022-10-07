@@ -2,7 +2,7 @@
 <div align="center">
 
 ## About The Project
-Created teh back end of an e-commerce website that allows edits to be made to categories of items, the tags associated with the items, and the products themselves. 
+Created the back end of an e-commerce website that allows edits to be made to categories of items, the tags associated with the items, and the products themselves. 
 
 Link to repo - [https://github.com/J0nK-LE/challenge13](https://github.com/J0nK-LE/challenge13)
 
@@ -20,7 +20,8 @@ Link to repo - [https://github.com/J0nK-LE/challenge13](https://github.com/J0nK-
      </ol>
 
 ## Installation
-Node.js with dependencies on dotenv@8.2.0, express@4.17.1, mysql2@2.1.0, sequelize@5.21.7. Some kind of sql editor
+Node.js with dependencies on dotenv@8.2.0, express@4.17.1, mysql2@2.1.0, sequelize@5.21.7. Some kind of sql editor.
+SQL can be seeded using "npm run seed"
 ## Usage
 Type "node server.js" or "npm run start" into the console
 ## License
